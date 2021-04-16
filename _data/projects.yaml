@@ -1,0 +1,73 @@
+- theme: anatomy
+  title:
+    en: Plant structure and function
+    fr: Structure et fonction des plantes
+  subsection:
+    - paper: 'Théroux-Rancourt _et al._ (2021) Maximum CO<sub>2</sub> diffusion inside leaves is limited by the scaling of cell size and genome size. _Proceedings B of the Royal Society_ 288, 20203145.'
+      url: https://royalsocietypublishing.org/doi/10.1098/rspb.2020.3145 #/research/3D-leaf-anatomy/
+      avatar: /assets/images-display/ProcB-2021-200x200px.png
+      snippet:
+        en: We show that genome size determines the sizes and packing densities of cells in all leaf tissues and that smaller cells enable more mesophyll surface area to be packed into the leaf volume, facilitating higher CO<sub>2</sub> diffusion. Our results demonstrate that genome downsizing among the angiosperms was critical to restructuring the entire pathway of CO<sub>2</sub> diffusion into and through the leaf, maintaining high rates of CO<sub>2</sub> supply to the leaf mesophyll despite declining atmospheric CO<sub>2</sub> levels during the Cretaceous..
+        fr: Nos résultats montrent que la taille du génome est corrélé avec la taille et la densité des cellules de tous les tissus de la feuille et que des plus petites cellules permettent d'augmenter la surface disponible pour la diffusion des gaz à l'intérieur de la feuille, ce qui facilite la diffusion du CO<sub>2</sub>. La réduction de la taille du génome aurait donc été essentielle pour permettre aux angiospermes de maintenir un apport en CO<sub>2</sub> élevé malgré les concentraitons décroissante durant le Crétacé.
+    - paper: 'Earles _et al._ (2018) Beyond porosity: 3D leaf intercellular airspace traits that impact mesophyll conductance. _Plant Physiology_ 178(1), 148–162.'
+      url: http://www.plantphysiol.org/content/178/1/148 #/research/3D-leaf-anatomy/
+      avatar: /assets/images-display/Tortuosity-200x200.png
+      snippet:
+        en: With microCT imaging, we explore traits of the intercellular airspace other that porosity and reevaluated the estimation of airspace tortuosity using bromeliads as a model family with CAM and C3 species, showing a range in leaf architecture and porosity values.
+        fr: À l'aide d'images obtenue par microCT, nous avons explorer des traits fonctionnels autres que la porosité et avons réévalué la méthode pour estimer la tortuosité dans les feuilles de broméliades, un famille idéale à cause de son spectre d'espèces de type CAM à C3 et de porosité des feuilles.
+    - paper: 'Théroux-Rancourt _et al._ (2017) The bias of a 2D view: Comparing 2D and 3D mesophyll surface area estimates using non-invasive imaging of internal leaf structure. _New Phytologist_ 215(4), 1609–1622'
+      url: http://onlinelibrary.wiley.com/doi/10.1111/nph.14687/abstract #/research/3D-leaf-anatomy/
+      avatar: /assets/images-display/Nymphaea-peelback-200x200.png
+      snippet:
+        en: This methods paper compares mesophyll surface area estimated using 3D microCT data to four published methods using microscopy slides, the first in depth comparison to our knowledge.
+        fr: Cet article présente la première comparaison de quatre méthodes d'estimation de la surface des cellules du mésophylle utilisées à ce jour aux mesures faites sur des données de microCT en 3D.
+    - paper: 'Théroux-Rancourt and Gilbert (2017) The light response of mesophyll conductance is controlled by structure across leaf profiles. *Plant, Cell & Environment 40*, 726–740.'
+      url: https://onlinelibrary.wiley.com/doi/full/10.1111/pce.12890 #/research/light-in-leaves/
+      avatar: /assets/images-display/Arbutus-cross-section-200x200.png
+      snippet:
+        en: The mesophyll conductance response to light can be only apparent and explained by the variation in light intensity within the leaf.
+        fr: La variation de la conductance du mésophylle avec la lumière peut n'être qu'apparente, et est expliquée par la variation de l'intensité lumineuse à l'intérieur de la feuille.
+    - paper: 'Earles _et al._ (2017) Excess diffuse light absorption in upper mesophyll limits CO<sub>2</sub> drawdown and depresses photosynthesis. *Plant Physiology*'
+      url: http://www.plantphysiol.org/content/early/2017/04/21/pp.17.00223.abstract #/research/light-in-leaves/
+      avatar: /assets/images-display/Earles-et-al-2017-200x200.png
+      snippet:
+        en: Excess absorption of diffuse versus direct light in the upper mesophyll of sun-adapted sunflower leaves leads to sub-optimal photosynthesis.
+        fr: L'absorption en excès de lumière diffuse par rapport à la lumière directe dans le mésophylle palissadique entraîne la sous-optimalité de la photosynthèse chez le tournesol.
+- theme: gm
+  title:
+    en: Mesophyll conductance
+    fr: Conductance du mésophylle
+  subsection:
+    - paper: 'Théroux-Rancourt, Éthier, Pepin (2015) Greater efficiency of water use in poplar clones having a delayed response of mesophyll conductance to drought. *Tree Physiology* 35, 172–184.'
+      url: https://academic.oup.com/treephys/article/35/2/172/1622488/Greater-efficiency-of-water-use-in-poplar-clones #/research/gm/
+      avatar: /assets/images-display/TreePhysiol-2015-400x400.png
+      snippet:
+        en: More water efficient hybrid poplars exhibit a delay of a few days in the decline of mesophyll conductance compared to stomatal conductance.
+        fr: Les clones de peupliers hybrides plus efficaces dans leur utilisation de l'eau ont un retard de quelques jours dans le déclin de la conductance du mésophylle par rapport à la conductance stomatique.
+    - paper: 'Théroux-Rancourt, Éthier, Pepin (2014) Threshold response of mesophyll CO<sub>2</sub> conductance to leaf hydraulics in highly transpiring hybrid poplar clones exposed to soil drying. *Journal of Experimental Botany* 65, 741–753.'
+      url: https://academic.oup.com/jxb/article/65/2/741/488160/Threshold-response-of-mesophyll-CO2-conductance-to #/research/gm/
+      avatar: /assets/images-display/JxB-2014.png
+      snippet:
+        en: This paper brings support to the hypothesis of a partial hydraulic isolation of the mesophyll from the main transpiration pathway through uncoordinated variation of mesophyll and stomatal conductance in hybrid poplar.
+        fr: Cet article appuie la théorie de l'isolation hydraulique partielle du mésophylle par rapport au flux de transpiration principal dans la feuille, et ce à travers une variation non-simultanée de la conductance stomatique et du mésophylle.
+- theme: otherphysiol
+  title:
+    en: Other plant physiology projects
+    fr: Autres projets en physiologie végétale
+  subsection:
+    - paper: "Sperling _et al._ (2017) Temperature gradients assist carbohydrate allocation within trees. *Scientific Reports* 7, 3265."
+      url: http://rdcu.be/to42
+      avatar: /assets/images-display/Sperling-et-al-2017-400x283.jpg
+      snippet:
+        en: Simulated spring conditions promoted allocation of non-soluble carbohydrates to canopy, while fall conditions enhanced allocation to roots, and summer favored a neutral above-to-belowground allocation.
+        fr: Les sucres non-solubles sont allouée préférentiellement à la partie aérienne de l'arbre au printemps, tandis que ces sucres sont allouées aux racines à l'automne, et des conditions estivales mènent à une allocation égale entre la partie aérienne et les racines.
+
+# other:
+#   - title: Optimization of irrigation in vegetable crops grow in histosols, in Prof. Jean Caron's team at Université Laval.
+#     url: http://www.sciencedirect.com/science/article/pii/S0378377414000031
+#     snippet: "Lafond _et al._ (2014) Evaluating fluxes in Histosols for water management in lettuce: a comparison of mass balance, evapotranspiration and lysimeter methods. *Agricultural Water Management* 135, 73–83."
+#     avatar: /assets/images-display/JxB-2014.png
+#   - title: Cloudberry cultivation, within the Peatland Ecology and Restoration Group
+#     url: http://www.gret-perg.ulaval.ca
+#     snippet: "Théroux-Rancourt, Rochefort, Lapointe (2009) Cloudberry cultivation in cut-over peatlands: hydrological and soil physical impacts on the growth of different clones and cultivars. _Mires and Peat_ 5, 06, 1-16."
+#     avatar: /assets/images-display/JxB-2014.png

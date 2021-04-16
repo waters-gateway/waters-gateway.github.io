@@ -1,0 +1,58 @@
+--- 
+- 
+  items: 
+    - 
+      avatar: /assets/images-display/Nymphaea-peelback-200x200.png
+      snippet: 
+        en: "This methods paper compares mesophyll surface area estimated using 3D microCT data to four published methods using microscopy slides, the first in depth comparison to our knowledge."
+        fr: test1
+      title: "Théroux-Rancourt _et al._ (2017) The bias of a 2D view: Comparing 2D and 3D mesophyll surface area estimates using non-invasive imaging of internal leaf structure. _New Phytologist_"
+      url: /research/3D-leaf-anatomy/
+    - 
+      avatar: /assets/images-display/Arbutus-cross-section-200x200.png
+      snippet: 
+        en: "An apparent response of mesophyll conductance to light provides alternative explanations to previously published data."
+        fr: test2
+      title: "Théroux-Rancourt and Gilbert (2017) The light response of mesophyll conductance is controlled by structure across leaf profiles. *Plant, Cell & Environment 40*, 726–740."
+      url: /research/light-in-leaves/
+    - 
+      avatar: /assets/images-display/Earles-et-al-2017-200x200.png
+      snippet: 
+        en: "Excess absorption of diffuse versus direct light in the upper mesophyll ofsunflower sun-adapted leaves leads to sub-optimal photosynthesis."
+        fr: test3
+      title: "Earles _et al._ (2017) Excess diffuse light absorption in upper mesophyll limits CO<sub>2</sub> drawdown and depresses photosynthesis. *Plant Physiology*"
+      url: /research/light-in-leaves/
+  toplevel: 
+    en: "Leaf structure and function"
+    fr: "Structure et fonction des feuilles"
+- 
+  items: 
+    - 
+      avatar: /assets/images-display/TreePhysiol-2015-400x400.png
+      snippet: 
+        en: "More water efficient hybrid poplars exhibit a delay of a few days in the decline of mesophyll conductance compared to stomatal conductance."
+        fr: "test 1"
+      title: "Théroux-Rancourt, Éthier, Pepin (2015) Greater efficiency of water use in poplar clones having a delayed response of mesophyll conductance to drought. *Tree Physiology* 35, 172–184."
+      url: /research/gm/
+    - 
+      avatar: /assets/images-display/JxB-2014.png
+      snippet: 
+        en: "The results in this paper support the hypothesis of a partial hydraulic isolation of the mesophyll from the main transpiration pathway."
+        fr: "test 2"
+      title: "Théroux-Rancourt, Éthier, Pepin (2014) Threshold response of mesophyll CO<sub>2</sub> conductance to leaf hydraulics in highly transpiring hybrid poplar clones exposed to soil drying. *Journal of Experimental Botany* 65, 741–753."
+      url: /research/gm/
+  toplevel: 
+    en: "Mesophyll conductance"
+    fr: "Condutance du mésophylle"
+- 
+  items: 
+    - 
+      avatar: /assets/images-display/Sperling-et-al-2017-400x283.jpg
+      snippet: 
+        en: "Simulated spring conditions promoted allocation of non-soluble carbohydrates to canopy, while fall conditions enhanced allocation to roots, and summer favored a neutral above-to-belowground allocation."
+        fr: "test 1"
+      title: "Sperling _et al._ (2017) Temperature gradients assist carbohydrate allocation within trees. *Scientific Reports* 7, 3265."
+      url: "http://rdcu.be/to42"
+  toplevel: 
+    en: "Other plant physiology projects"
+    fr: "Autres projets en physiologie végétale"
