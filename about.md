@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: "About me"
+title: "About"
 show_title: false
 lang: en
 ---
