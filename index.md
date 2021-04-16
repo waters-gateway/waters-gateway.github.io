@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "Guillaume Théroux-Rancourt"
+title: "Water's gateway to heaven"
 show_title: false
 lang: en
 ---
