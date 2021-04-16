@@ -13,15 +13,15 @@
     {% else %}
  -->
 
-    <li><a href="{{ steve.href }}" class="page-link">{% if site.active_lang == "en" %}{{ steve.title }}{% else if site.active_lang == "fr"%}{{ steve.title-fr }}{% endif %}</a>
+    <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
     <!-- {% endif %} -->
     </li>
     {% endfor %}
 
    
-    {% for tongue in site.languages %}
+<!--     {% for tongue in site.languages %}
     <li style="text-transform: lowercase; font-weight: lighter"><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a>  </li> 
     {% endfor %}
-
+ -->
 
     </ul>

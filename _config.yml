@@ -1,15 +1,12 @@
 # Site settings
-title: "Water's gateway to heavean"
+title: "Water's gateway to heaven"
 email: 
-description: "Vienna Science and Technology Fund (WWTF) project LS19-013
-University of Natural Ressources and Life Sciences (BOKU), Vienna
-University of Vienna
-TU Wien"
+description: "Vienna Science and Technology Fund (WWTF) funded project LS19-013"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://waters-gateway.github.io # the base hostname & protocol for your site
+url: http://waters-gateway.github.io # the base hostname & protocol for your site
 # github_username:  gtrancourt
 # twitter_username: GTRancourt
 
