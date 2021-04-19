@@ -1,8 +1,8 @@
 - title: "About"
   href: "/about/"
-
-- title: "People"
-  href: "/people/"
+# 
+# - title: "People"
+#   href: "/people/"
 
 - title: "Research"
   href: "/research/"
