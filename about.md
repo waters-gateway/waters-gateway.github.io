@@ -12,7 +12,18 @@ Stomata are tiny pores on the surface of plant leaves and play a central role in
 
 ---
 
-Core members in this project are:  
+{% for theme in site.data.people %}
+<h2>{{ theme.title[site.active_lang] }}</h2>
+{% for person in theme.subsection %}
+<div class="toc">
+<img src="{{ person.avatar }}" alt="{{ person.person | smartify }}" class="avatar" style="width:200px" />
+<a href="{{ person.url }}">{{ person.paper | markdownify }}</a>
+<p>{{{ person.snippet.en | markdownify }}</p>
+</div>
+{% endfor %}
+{% endfor %}
+
+<!-- Core members in this people are:  
   [Guillaume Théroux-Rancourt (University of Natural Resources and Life Sciences, Vienna (BOKU)](http://gtrancourt.gitlab.io)  
   [Danny Tholen (BOKU)](https://scholar.google.com/citations?user=iQUjOxAAAAAJ&hl=en&num=20&oi=ao)  
   [Ingeborg Lang (University of Vienna)](https://scholar.google.com/citations?user=8tzh90wAAAAJ&hl=en&num=20&oi=ao)  
@@ -21,3 +32,4 @@ Core members in this project are:
 With collaborators:  
   [Anja Geitmann (plant cell biologist, McGill University)](https://www.plantbiomechanics.net/)  
   [Anne Bonnin (radiation physicist, Swiss Light Source)](https://www.psi.ch/en/x-ray-tomography-group/people/anne-bonnin)
+ -->
