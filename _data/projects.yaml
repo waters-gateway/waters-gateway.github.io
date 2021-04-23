@@ -4,7 +4,7 @@
     - project: Dynamic response of stomata in relation to leaf anatomy
       url: 
       avatar: /assets/images-display/ProcB-2021-200x200px.png
-      snippet: Some text. Students involved":" ...
+      snippet: 'Some text. Students involved: some name' # Use single quotes to include :
 - theme: cpu
   title: Pattern recognition and image analysis
   subsection:
