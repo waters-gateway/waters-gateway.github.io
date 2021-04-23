@@ -1,55 +1,44 @@
 - theme: core
-  title:
-    en: Core group members
+  title: Core group members
   subsection:
     - person: Dr. Guillaume Théroux-Rancourt
       url: http://gtrancourt.gitlab.io
       avatar: /images/people/GTR-Palmenhaus-400px.jpg
-      snippet:
-        en: PI. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
+      snippet: PI. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
     - person: Prof. Dr. Ingeborg Lang
       url: https://scholar.google.com/citations?user=8tzh90wAAAAJ&hl=en&num=20&oi=ao
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: co-PI. Plant cell biology. University of Vienna.
+      snippet: co-PI. Plant cell biology. University of Vienna.
     - person: Univ. Prof. Dr. Walter Kropatsch
       url: https://www.prip.tuwien.ac.at/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: co-PI. Pattern recognition and image analysis. TU Wien.
+      snippet: co-PI. Pattern recognition and image analysis. TU Wien.
     - person: Dr. Danny Tholen
       url: https://scholar.google.com/citations?user=iQUjOxAAAAAJ&hl=en&num=20&oi=ao
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: core member. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
+      snippet: core member. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
     - person: Dr. Jiří Hladůvka
       url: https://www.prip.tuwien.ac.at/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: core member. Pattern recognition and image analysis. TU Wien.
+      snippet: core member. Pattern recognition and image analysis. TU Wien.
 - theme: collab
-  title:
-    en: Collaborators
+  title: Collaborators
   subsection:
     - person: Prof. Anja Geitmann
       url: https://www.plantbiomechanics.net/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: Plant cell biologist. McGill University (Canada).
+      snippet: Plant cell biologist. McGill University (Canada).
     - person: Dr. Anne Bonnin
       url: https://www.psi.ch/en/x-ray-tomography-group/people/anne-bonnin
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: Radiation physicist. TOMCAT Tomography beamline, Swiss Light Source (Switzerland).
+      snippet: Radiation physicist. TOMCAT Tomography beamline, Swiss Light Source (Switzerland).
 - theme: students
-  title:
-    en: Students
+  title: Students
   subsection:
     - person: Maryam Zekri
       url: 
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
-      snippet:
-        en: Ph.D. student. Plant cell biology, ecophysiology, anatomy, and imaging. University of Vienna.
+      snippet: Ph.D. student. Plant cell biology, ecophysiology, anatomy, and imaging. University of Vienna.
 
 # other:
 #   - title: Optimization of irrigation in vegetable crops grow in histosols, in Prof. Jean Caron's team at Université Laval.
