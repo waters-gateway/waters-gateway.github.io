@@ -7,37 +7,37 @@
       snippet: PI. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
     - person: Prof. Dr. Ingeborg Lang
       url: https://scholar.google.com/citations?user=8tzh90wAAAAJ&hl=en&num=20&oi=ao
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: co-PI. Plant cell biology. University of Vienna.
     - person: Univ. Prof. Dr. Walter Kropatsch
       url: https://www.prip.tuwien.ac.at/
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: co-PI. Pattern recognition and image analysis. TU Wien.
     - person: Dr. Danny Tholen
       url: https://scholar.google.com/citations?user=iQUjOxAAAAAJ&hl=en&num=20&oi=ao
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: core member. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).
     - person: Dr. Jiří Hladůvka
       url: https://www.prip.tuwien.ac.at/
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: core member. Pattern recognition and image analysis. TU Wien.
 - theme: collab
   title: Collaborators
   subsection:
     - person: Prof. Anja Geitmann
       url: https://www.plantbiomechanics.net/
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: Plant cell biologist. McGill University (Canada).
     - person: Dr. Anne Bonnin
       url: https://www.psi.ch/en/x-ray-tomography-group/people/anne-bonnin
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: Radiation physicist. TOMCAT Tomography beamline, Swiss Light Source (Switzerland).
 - theme: students
   title: Students
   subsection:
     - person: Maryam Zekri
       url: 
-      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.webp
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
       snippet: Ph.D. student. Plant cell biology, ecophysiology, anatomy, and imaging. University of Vienna.
 
 # other:
