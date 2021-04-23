@@ -13,12 +13,12 @@ Stomata are tiny pores on the surface of plant leaves and play a central role in
 ---
 
 {% for theme in site.data.people %}
-<h2>{{ theme.title[site.active_lang] }}</h2>
+<h2>{{ theme.title }}</h2>
 {% for person in theme.subsection %}
 <div class="toc">
 <img src="{{ person.avatar }}" alt="{{ person.person | smartify }}" class="avatar" style="width:200px" />
 <a href="{{ person.url }}">{{ person.paper | markdownify }}</a>
-<p>{{{ person.snippet.en | markdownify }}</p>
+<p>{{ person.snippet.en | markdownify }}</p>
 </div>
 {% endfor %}
 {% endfor %}
