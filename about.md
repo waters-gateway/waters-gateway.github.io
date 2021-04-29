@@ -2,11 +2,9 @@
 layout: page
 permalink: /about/
 title: "About"
-show_title: false
+show_title: true
 lang: en
 ---
-
-<!-- {% include image.html url="/images/GTR-Palmenhaus-400px.jpg" width=200 style="float:right" %} -->
 
 Our project focusses on the stomata, tiny pores on the surface of plant leaves. Stomata play a central role in global water and carbon cycles while covering less than 5% of the leaf surface. Stomata open and close to provide CO<sub>2</sub> for photosynthesis and to limit water loss, but this process varies in speed and dynamism between different species and phenotypes, as well as under fluctuating environmental conditions, like under changing light or humidity. The speed at which stomata respond influences the productivity and water use of both crops and natural ecosystems.
 
