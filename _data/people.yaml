@@ -8,30 +8,30 @@
     - person: Prof. Dr. Ingeborg Lang. co-PI. University of Vienna.  
       url: https://scholar.google.com/citations?user=8tzh90wAAAAJ&hl=en&num=20&oi=ao
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: co-PI. Plant cell biology. University of Vienna.                                                                                   
+      snippet: Plant cell biology.                                                                                  
     - person: Univ. Prof. Dr. Walter Kropatsch. co-PI. Vienna University of Technology (TU Wien).
       url: https://www.prip.tuwien.ac.at/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: co-PI. Pattern recognition and image analysis. TU Wien.                                                                                   
+      snippet: Pattern recognition and image analysis.                                                                                  
     - person: Dr. Danny Tholen. core member. University of Natural Resources and Life Sciences, Vienna (BOKU).
       url: https://scholar.google.com/citations?user=iQUjOxAAAAAJ&hl=en&num=20&oi=ao
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: core member. Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).                                         
+      snippet: Plant ecophysiology and anatomy. University of Natural Resources and Life Sciences, Vienna (BOKU).                                         
     - person: Dr. Jiří Hladůvka. core member. Vienna University of Technology (TU Wien).
       url: https://www.prip.tuwien.ac.at/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: core member. Pattern recognition and image analysis. TU Wien.                                                                                  
+      snippet: Pattern recognition and image analysis.                                                                                
 - theme: collab
   title: Collaborators
   subsection:
     - person: Prof. Anja Geitmann. McGill University (Canada).
       url: https://www.plantbiomechanics.net/
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: Plant cell biologist. McGill University (Canada).                                                                                  
+      snippet: Plant cell biologist and expert on plant biomechanics.                                                                                  
     - person: Dr. Anne Bonnin. Swiss Light Source (Switzerland).
       url: https://www.psi.ch/en/x-ray-tomography-group/people/anne-bonnin
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: Radiation physicist. TOMCAT Tomography beamline, Swiss Light Source (Switzerland).                                                                                  
+      snippet: Radiation physicist, TOMCAT Tomography beamline.                                                                                  
 - theme: students
   title: Students
   subsection:
