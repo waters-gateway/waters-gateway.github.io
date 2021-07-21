@@ -54,7 +54,11 @@
     - person: Oliver Troger. Bachelor student, TU Wien.
       url: 
       avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
-      snippet: 
+      snippet: Deep-learning segmentation of microCT images.
+    - person: Janika Tulacs. Bachelor student, TU Wien.
+      url: 
+      avatar: /images/people/50_profile_contact_card_id_card_idendity_person_avatar_computer_file_information-512.png
+      snippet: Deep-learning segmentation of microCT images.
 # other:
 #   - title: Optimization of irrigation in vegetable crops grow in histosols, in Prof. Jean Caron's team at Université Laval.
 #     url: http://www.sciencedirect.com/science/article/pii/S0378377414000031
