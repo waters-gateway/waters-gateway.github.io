@@ -5,9 +5,9 @@
       url: 
       avatar: /assets/images-display/ProcB-2021-200x200px.png
       snippet: |
-      'In this part of the project, we investiguate the anatomical dynamics of the stomata in 2D, 3D, and 4D under fluctuating water supply.
+      In this part of the project, we investiguate the anatomical dynamics of the stomata in 2D, 3D, and 4D under fluctuating water supply.
       
-      Student involved: Maryam Zekri'
+      Student involved: Maryam Zekri
 - theme: cpu
   title: Pattern recognition and image analysis
   subsection:
@@ -15,6 +15,6 @@
       url: 
       avatar: /assets/images-display/Nymphaea-peelback-200x200.png
       snippet: |
-      'To leverage the high amount of 3D imaging data, we are building tools for their automated segmentation and for more simplified 3D and 4D representations.
+      To leverage the high amount of 3D imaging data, we are building tools for their automated segmentation and for more simplified 3D and 4D representations.
       
-      Students involved: Florian Bogner, Alex Palmrich, Rachel Grexova, Oliver Troger, Janika Tulacs.'
+      Students involved: Florian Bogner, Alex Palmrich, Rachel Grexova, Oliver Troger, Janika Tulacs.
