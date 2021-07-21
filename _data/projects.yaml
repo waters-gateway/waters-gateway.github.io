@@ -4,11 +4,11 @@
     - project: Dynamic response of stomata in relation to leaf anatomy
       url: 
       avatar: /assets/images-display/ProcB-2021-200x200px.png
-      snippet: 'Some text. Students involved: some name' # Use single quotes to include :
+      snippet: 'In this part of the project, we investiguate the anatomical dynamics of the stomata in 2D, 3D, and 4D under fluctuating water supply. Student involved: Maryam Zekri' # Use single quotes to include :
 - theme: cpu
   title: Pattern recognition and image analysis
   subsection:
     - project: Automated segmentation of sparsely annotated plant leaf microCT scans
       url: 
       avatar: /assets/images-display/Nymphaea-peelback-200x200.png
-      snippet: Some more text
+      snippet: 'To leverage the high amount of 3D imaging data, we are building tools for their automated segmentation and for more simplified 3D and 4D representations. Students involved: Florian Bogner, Alex Palmrich, Rachel Grexova, Oliver Troger, Janika Tulacs.'
