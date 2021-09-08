@@ -63,7 +63,7 @@ What has been done last year at UniVie.
 Maryam Zekri.
 TBA
 
-### Afternoon Session 3: UniVie - 13:30
+### Afternoon Session 3: BOKU - 14:00
 
 10'
 Klara Voggeneder.
@@ -79,7 +79,7 @@ Synchrotron data so far and potential outcomes.
 
 ### Break
 
-### Afternoon Session 3: UniVie - 15:30-16:00
+### Afternoon Session 3: UniVie - 15:30
 
 60'
 Anja Geitmann.
