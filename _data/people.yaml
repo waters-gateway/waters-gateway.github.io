@@ -24,14 +24,14 @@
 - theme: collab
   title: Collaborators
   subsection:
-    - person: Prof. Anja Geitmann. McGill University (Canada).
-      url: https://www.plantbiomechanics.net/
-      avatar: /images/people/Bonnin_Anne.jpg
-      snippet: Plant cell biologist and expert on plant biomechanics.                                                                                  
     - person: Dr. Anne Bonnin. Swiss Light Source (Switzerland).
       url: https://www.psi.ch/en/x-ray-tomography-group/people/anne-bonnin
-      avatar: /images/people/geitmann.webp
+      avatar: /images/people/Bonnin_Anne.jpg
       snippet: Radiation physicist, TOMCAT Tomography beamline.                                                                                  
+    - person: Prof. Anja Geitmann. McGill University (Canada).
+      url: https://www.plantbiomechanics.net/
+      avatar: /images/people/geitmann.webp
+      snippet: Plant cell biologist and expert on plant biomechanics.                                                                                  
 - theme: students
   title: Students
   subsection:
