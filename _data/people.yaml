@@ -2,7 +2,7 @@
   title: Core group members
   subsection:
     - person: Dr. Guillaume Théroux-Rancourt. PI. University of Natural Resources and Life Sciences, Vienna (BOKU).
-      url: http://gtrancourt.gitlab.io
+      url: https://therouxrancourt.science
       avatar: /images/people/GTR-Palmenhaus-400px.jpg
       snippet: Dr. Théroux-Rancourt's research bridges plant ecophysiology, anatomy, and computational biology. He is an expert in imaging and analysing 3D plant leaf anatomy.
     - person: Prof. Dr. Ingeborg Lang. co-PI. University of Vienna.  
@@ -32,6 +32,13 @@
       url: https://www.plantbiomechanics.net/
       avatar: /images/people/geitmann.webp
       snippet: Plant cell biologist and expert on plant biomechanics.                                                                                  
+- theme: staff
+  title: Staff
+  subsection:
+    - person: Lukas Koller, M.Sc.
+      url: 
+      avatar: /images/people/Koller_Lukas.jpg
+      snippet: Research assistant.                                                                                  
 - theme: students
   title: Students
   subsection:
