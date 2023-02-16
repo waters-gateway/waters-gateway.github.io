@@ -8,7 +8,7 @@ lang: en
 
 # Journal publications
 
-Fast labeled spanning tree in binary irregular graph pyramids. M. Banaeyan and W. G. Kropatsch (2022),  Journal of Engineering Research and Sciences, vol. 1, no. 10, pp. 69–78.
+Fast labeled spanning tree in binary irregular graph pyramids. (https://www.jenrs.com/v01/i10/p009/){:target="_blank"  rel="noopener noreferrer"} M. Banaeyan and W. G. Kropatsch (2022),  Journal of Engineering Research and Sciences, vol. 1, no. 10, pp. 69–78.
 
 [Structural organization of the spongy mesophyll.]((https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17971){:target="_blank"  rel="noopener noreferrer"}) Borsuk AM, Roddy AB, **Théroux-Rancourt G**, Brodersen CR. (2022) *New Phytologist* [*preprint version here*]((https://www.biorxiv.org/content/10.1101/852459v2){:target="_blank"  rel="noopener noreferrer"})
 
