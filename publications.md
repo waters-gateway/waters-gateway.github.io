@@ -20,11 +20,11 @@ lang: en
 
 [Implicit encoding and simplification/reduction of nGmaps, in Discrete geometry and mathematical morphology.](https://link.springer.com/chapter/10.1007/978-3-031-19897-7_10){:target="_blank"  rel="noopener noreferrer"} F. Bogner, J. Hladůvka, and W. G. Kropatsch  (2022), pp. 110–122.
 
-[Parallel O(log(n)) computation of the adjacency of connected components, in International conference on pattern recognition and artificial intelligence.]{:target="_blank"  rel="noopener noreferrer"} M. Banaeyan and W. G. Kropatsch (2022), pp. 102–113.
+[Parallel O(log(n)) computation of the adjacency of connected components, in International conference on pattern recognition and artificial intelligence.](https://link.springer.com/chapter/10.1007/978-3-031-09282-4_9){:target="_blank"  rel="noopener noreferrer"} M. Banaeyan and W. G. Kropatsch (2022), pp. 102–113.
 
-[Removing redundancies in binary images, in International conference on intelligent systems and patterns recognition.]{:target="_blank"  rel="noopener noreferrer"} M. Banaeyan, D. Batavia, and W. G. Kropatsch (2022), pp. 221–233.
+[Removing redundancies in binary images, in International conference on intelligent systems and patterns recognition.](https://www.researchgate.net/publication/360134495_Removing_Redundancies_in_Binary_Images){:target="_blank"  rel="noopener noreferrer"} M. Banaeyan, D. Batavia, and W. G. Kropatsch (2022), pp. 221–233.
 
-[Fast distance transforms in graphs and in Gmaps]{:target="_blank"  rel="noopener noreferrer"}, in IAPR joint international workshops on statistical techniques in pattern recognition (SPR 2022) and structural and syntactic pattern recognition (SSPR 2022). M. Banaeyan, C. Carratù, W. G. Kropatsch, and J. Hladůvka (2022), pp. 193–202.
+[Fast distance transforms in graphs and in Gmaps](https://link.springer.com/chapter/10.1007/978-3-031-23028-8_20){:target="_blank"  rel="noopener noreferrer"}, in IAPR joint international workshops on statistical techniques in pattern recognition (SPR 2022) and structural and syntactic pattern recognition (SSPR 2022). M. Banaeyan, C. Carratù, W. G. Kropatsch, and J. Hladůvka (2022), pp. 193–202.
 
 Redundant 1-cells in multi-labeled 2-Gmap irregular pyramids, in OAGM workshop: Digitalization for smart farming and forestry. M. Banaeyan, W. G. Kropatsch, and J. Hladůvka (2022), to appear.
 
