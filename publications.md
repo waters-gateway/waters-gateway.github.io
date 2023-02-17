@@ -39,5 +39,8 @@ An unsupervised, shape-based 3D cell instance segmentation method for plant tiss
 
 Towards uncertainty detection in automated leaf tissue segmentation, in OAGM workshop: Digitalization for smart farming and forestry. R. Grexová, K. Voggeneder, D. Tholen, G. Theroux-Rancourt, W. Kropatsch, and J. Hladůvka (2022), to appear.
 
-[__Border Propagation: A Novel Approach to Determine Slope Region Decompositions__]((https://doi.org/10.3217/978-3-85125-752-6){:target="_blank"  rel="noopener noreferrer"}). **Bogner F**, **Palmrich A**, **Kropatsch WG** (2020) In Roth PM, Steinbauer G, Fraundorfer F, Brandstötter M & Perko R (eds), Proceedings of the Joint Austrian Computer Vision and Robotics Workshop. Verlag der Technischen Universität Graz, Graz. pp. 137-142. doi: 10.3217/978-3-85125-752-6
+[Border propagation: A novel approach to determine slope region decompositions](https://doi.org/10.3217/978-3-85125-752-6-31),
+in Proceedings of the Joint Austrian Computer Vision and Robotics Workshop.
+F. Bogner, A. Palmrich, and W. G. Kropatsch (2020), pp. 137–142.
+
 
