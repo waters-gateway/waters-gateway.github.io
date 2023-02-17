@@ -8,9 +8,14 @@ lang: en
 
 # Journal publications
 
+
+[Analyzing anatomy over three dimensions unpacks the differences in mesophyll diffusive area between sun and shade vitis vinifera leaves](https://doi.org/10.1093/aobpla/plad001).
+G. Théroux-Rancourt, J. C. Herrera, K. Voggeneder, F. D. Berardinis, N. Luijken, L. Nocker, T. Savi, S. Scheffknecht, M. Schneck, and D. Tholen. (2023)
+AoB Plants.
+
 [Fast labeled spanning tree in binary irregular graph pyramids.](https://www.jenrs.com/v01/i10/p009/){:target="_blank"  rel="noopener noreferrer"} M. Banaeyan and W. G. Kropatsch (2022),  Journal of Engineering Research and Sciences, vol. 1, no. 10, pp. 69–78.
 
-[Structural organization of the spongy mesophyll.]((https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17971){:target="_blank"  rel="noopener noreferrer"}) Borsuk AM, Roddy AB, **Théroux-Rancourt G**, Brodersen CR. (2022) *New Phytologist* [*preprint version here*]((https://www.biorxiv.org/content/10.1101/852459v2){:target="_blank"  rel="noopener noreferrer"})
+[Structural organization of the spongy mesophyll.](https://doi.org/10.1111/nph.17971){:target="_blank"  rel="noopener noreferrer"} Borsuk AM, Roddy AB, **Théroux-Rancourt G**, Brodersen CR. (2022) *New Phytologist*.
 
 [The 3D construction of leaves is coordinated with water use efficiency in conifers.](https://doi.org/10.1111/nph.17772){:target="_blank"  rel="noopener noreferrer"} Trueba S, **Théroux-Rancourt G**, Earles JM, Buckley TN, Love D, Johnson DM, Brodersen CR. (2022) *New Phytologist*. 233, 851–861. [*preprint version here*](https://www.biorxiv.org/content/10.1101/2021.04.23.441113v1){:target="_blank"  rel="noopener noreferrer"}
 
