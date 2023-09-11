@@ -31,13 +31,13 @@ AoB Plants.
 
 [Fast distance transforms in graphs and in Gmaps](https://link.springer.com/chapter/10.1007/978-3-031-23028-8_20){:target="_blank"  rel="noopener noreferrer"}, in IAPR joint international workshops on statistical techniques in pattern recognition (SPR 2022) and structural and syntactic pattern recognition (SSPR 2022). M. Banaeyan, C. Carratù, W. G. Kropatsch, and J. Hladůvka (2022), pp. 193–202.
 
-Redundant 1-cells in multi-labeled 2-Gmap irregular pyramids, in OAGM workshop: Digitalization for smart farming and forestry. M. Banaeyan, W. G. Kropatsch, and J. Hladůvka (2022), to appear.
+[Redundant 1-cells in multi-labeled 2-Gmap irregular pyramids](https://doi.org/10.3217/978-3-85125-954-4-01){:target="_blank"  rel="noopener noreferrer"}, in OAGM workshop: Digitalization for smart farming and forestry. M. Banaeyan, W. G. Kropatsch, and J. Hladůvka (2022), pp. 5-11.
 
-Modeling the diffusion of CO2 inside leaves, in OAGM workshop: Digitalization for smart farming and forestry. Y. Sauzeau, W. Kropatsch, and J. Hladůvka  (2022), to appear.
+[Modeling the diffusion of CO2 inside leaves](https://doi.org/10.3217/978-3-85125-954-4-11){:target="_blank"  rel="noopener noreferrer"}, in OAGM workshop: Digitalization for smart farming and forestry. Y. Sauzeau, W. Kropatsch, and J. Hladůvka  (2022), pp. 70-72.
 
-An unsupervised, shape-based 3D cell instance segmentation method for plant tissues, in OAGM workshop: Digitalization for smart farming and forestry. A. Palmrich, K. Voggeneder, D. Tholen, G. Theroux-Rancourt, J. Hladůvka, and W. Kropatsch (2022), to appear.
+[An unsupervised, shape-based 3D cell instance segmentation method for plant tissues](https://doi.org/10.3217/978-3-85125-954-4-08){:target="_blank"  rel="noopener noreferrer"}, in OAGM workshop: Digitalization for smart farming and forestry. A. Palmrich, K. Voggeneder, D. Tholen, G. Theroux-Rancourt, J. Hladůvka, and W. Kropatsch (2022), pp. 54-59.
 
-Towards uncertainty detection in automated leaf tissue segmentation, in OAGM workshop: Digitalization for smart farming and forestry. R. Grexová, K. Voggeneder, D. Tholen, G. Theroux-Rancourt, W. Kropatsch, and J. Hladůvka (2022), to appear.
+[Towards uncertainty detection in automated leaf tissue segmentation](https://doi.org/10.3217/978-3-85125-954-4-07){:target="_blank"  rel="noopener noreferrer"}, in OAGM workshop: Digitalization for smart farming and forestry. R. Grexová, K. Voggeneder, D. Tholen, G. Theroux-Rancourt, W. Kropatsch, and J. Hladůvka (2022), pp. 47-53.
 
 [Border propagation: A novel approach to determine slope region decompositions](https://doi.org/10.3217/978-3-85125-752-6-31),
 in Proceedings of the Joint Austrian Computer Vision and Robotics Workshop.
