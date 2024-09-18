@@ -5,9 +5,7 @@ title: "Publications"
 lang: en
 ---
 
-# Publications
-
-## Journal Publications
+# Journal Publications
 
 D. Tholen. GasanalyzeR: Advancing Reproducible Research using a New R
 Package for Photosynthesis Data Workflows, *AoB Plants*, vol. 16, no. 4,
@@ -46,7 +44,7 @@ airspace in leaves: 3D anatomy and directional tortuosity, *Plant, Cell
 & Environment*, vol. 44, no. 8, pp. 2455--2465, 2021,
 DOI:[10.1111/pce.14079](https://doi.org/10.1111/pce.14079).
 
-## Conference proceedings
+# Conference proceedings
 
 J. Hladůvka and W. G. Kropatsch. Fitting egg-shapes to discretized
 object boundaries, in *Discrete geometry and mathematical morphology*,
@@ -138,7 +136,7 @@ the joint austrian computer vision and robotics workshop*, 2020, pp.
 137--142,
 DOI:[10.3217/978-3-85125-752-6-31](https://doi.org/10.3217/978-3-85125-752-6-31).
 
-## Theses, technical reports, datasets, packages
+# Theses, technical reports, datasets, packages
 
 M. Banaeyan. Redundant edges and parallel algorithms in binary irregular
 graph pyramids, PhD thesis, Vienna University of Technology, 2024.
