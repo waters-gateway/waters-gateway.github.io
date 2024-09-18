@@ -28,6 +28,11 @@ mesophyll diffusive area between sun and shade vitis vinifera leaves,
 *AoB Plants*, Jan. 2023,
 DOI:[10.1093/aobpla/plad001](https://doi.org/10.1093/aobpla/plad001).
 
+M. Banaeyan and W. G. Kropatsch. Fast labeled spanning tree in binary
+irregular graph pyramids, *Journal of Engineering Research and
+Sciences*, vol. 1, no. 10, pp. 69--78, 2022,
+DOI:[10.55708/js0110009](https://doi.org/10.55708/js0110009).
+
 S. Trueba, G. Théroux-Rancourt, J. M. Earles, T. N. Buckley, D. Love, D.
 M. Johnson, and C. Brodersen. The three-dimensional construction of
 leaves is coordinated with water use efficiency in conifers, *New
@@ -105,11 +110,6 @@ F. Bogner, J. Hladůvka, and W. G. Kropatsch. Implicit encoding and
 simplification/reduction of nGmaps, in *Discrete geometry and
 mathematical morphology*, 2022, pp. 110--122,
 DOI:[10.1007/978-3-031-19897-7_10](https://doi.org/10.1007/978-3-031-19897-7_10).
-
-M. Banaeyan and W. G. Kropatsch. Fast labeled spanning tree in binary
-irregular graph pyramids, *Journal of Engineering Research and
-Sciences*, vol. 1, no. 10, pp. 69--78, 2022,
-DOI:[10.55708/js0110009](https://doi.org/10.55708/js0110009).
 
 M. Banaeyan, C. Carratù, W. G. Kropatsch, and J. Hladůvka. Fast distance
 transforms in graphs and in Gmaps, in *IAPR joint international
